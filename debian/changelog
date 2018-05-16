@@ -147,7 +147,7 @@ pureos-meta (0.7) green; urgency=medium
  -- Matthias Klumpp <matthias.klumpp@puri.sm>  Tue, 08 Nov 2016 21:32:30 +0100
 
 pureos-meta (0.6) green; urgency=medium
-.
+
   * Refreshed dependencies
   * Added purebrowser to desktop-recommends
   * Added epiphany-browser to desktop-recommends
